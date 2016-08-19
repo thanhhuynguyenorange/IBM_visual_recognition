@@ -1,0 +1,55 @@
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "score": 1.0,
+              "class": "person",
+              "type_hierarchy": "/people"
+            }
+          ],
+          "classifier_id": "default",
+          "name": "default"
+        }
+      ],
+      "resolved_url": "https://www.ibm.com/ibm/ginni/images/ginni_bio_780x981_v4_03162016.jpg",
+      "source_url": "https://www.ibm.com/ibm/ginni/images/ginni_bio_780x981_v4_03162016.jpg"
+    }
+  ],
+  "custom_classes": 0,
+  "images_processed": 1
+}
+
+
+
+####################################
+{
+  "images": [
+    {
+      "source_url": "https://www.ibm.com/ibm/ginni/images/ginni_bio_780x981_v4_03162016.jpg",
+      "resolved_url": "https://www.ibm.com/ibm/ginni/images/ginni_bio_780x981_v4_03162016.jpg",
+      "faces": [
+        {
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.5
+          },
+          "age": {
+            "max": 54,
+            "score": 0.404682,
+            "min": 45
+          },
+          "face_location": {
+            "width": 282,
+            "top": 131,
+            "left": 261,
+            "height": 296
+          }
+        }
+      ]
+    }
+  ],
+  "images_processed": 1
+}
